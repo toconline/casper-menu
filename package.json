@@ -1,0 +1,9 @@
+{
+  "name": "@cloudware-casper/casper-menu",
+  "main": "casper-menu.js",
+  "version": "0.0.1",
+  "description": "casper-menu is good",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
